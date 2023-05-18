@@ -27,7 +27,6 @@ You are required to create a tribute page that looks similar to tht image below 
 13. Your image should have a border of groove at the top and ridge at the bottom.
 14. Your image should be rounded.
 15. Your main element should occupy 75% the size of its parent and must be on the center of its parent.
-16.
 
 ## Submission
 
